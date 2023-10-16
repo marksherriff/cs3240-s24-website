@@ -1,0 +1,98 @@
+- topic: No Team Meetings (No teams yet)
+  type: holiday
+  date: 08/27-09/02
+  deliverable: None
+
+- topic: "Sprint 1 Begins: Team Organization"
+  type: lab
+  date: 09/03-09/09
+  deliverable: None
+  duedate: 09/10
+  link: "/project.html#sprint-1-team-organization"
+
+- topic: "Sprint 2 Begins: Requirements"
+  type: lab
+  date: 09/10-09/16
+  deliverable: "S1 Ends: Team Declaration Form"
+  deliverabledue: 9/10
+  duedate: 09/24
+  link: "/project.html#sprint-2-requirements-elicitation"
+
+- topic: Team Meeting
+  type: lab
+  date: 09/17-09/23
+  deliverable: None
+
+- topic: "Sprint 3 Begins: Heroku + Google Login"
+  type: lab
+  date: 09/24-09/30
+  duedate: 10/08
+  deliverable: "S2 Ends: Requirements Doc + GitHub Issues"
+  deliverabledue: 09/24
+  link: "/project.html#sprint-3-heroku--google-login"
+
+- topic: Fall Break (No Meetings w/ TAs)
+  type: holiday
+  date: 10/01-10/07
+  deliverable: None
+
+- topic: "Sprint 4 Begins: Project Milestone 1"
+  type: lab
+  date: 10/08-10/14
+  duedate: 10/22
+  deliverable: "S3 Ends: App w/ Google Login on Heroku"
+  deliverabledue: 10/08
+  link: "/project.html#sprint-4-project-milestone-1"
+
+- topic: Team Meeting
+  type: lab
+  date: 10/15-10/21
+  deliverable: None
+
+- topic: "Sprint 5 Begins: Project Milestone 2"
+  type: lab
+  date: 10/22-10/28
+  duedate: 11/05
+  deliverable: "S4 Ends: Project Milestone 1 Features"
+  deliverabledue: 10/22
+  link: "/project.html#sprint-5-project-milestone-2"
+
+- topic: Team Meeting
+  type: lab
+  date: 10/29-11/04
+  deliverable: None
+
+- topic: "Sprint 6 Begins: Beta Version"
+  type: lab
+  date: 11/05-11/11
+  duedate: 11/12
+  deliverable: "S5 Ends: Project Milestone 2 Features"
+  deliverabledue: 11/05
+  link: "/project.html#sprint-6-beta-version"
+
+- topic: "Beta Testing Begins"
+  type: lab
+  date: 11/12-11/18
+  duedate: 11/26
+  deliverable: "S6 Ends: Complete Beta Version of App"
+  deliverabledue: 11/12
+  link: "/project.html#beta-testing"
+
+- topic: Team Meeting
+  type: lab
+  date: 11/19-11/25
+  deliverable: DevOps Report
+  deliverabledue: 11/19
+
+- topic: "Final Version Sprint Begins"
+  type: lab
+  date: 11/26-12/02
+  deliverable: "Beta Testing Report + Usability Assessment"
+  deliverabledue: 11/26
+  link: "/project.html#final-version"
+  
+- topic: Project Due @ 11:59 PM
+  type: lab
+  date: 12/03 
+  deliverable: "Team Pledge + Scrum Master Report"
+  deliverabledue: 12/03
