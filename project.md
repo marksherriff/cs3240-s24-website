@@ -13,6 +13,9 @@ nav_order: 4
 1. TOC
 {:toc}
 
+_NOTE: This is the project information for Fall 2023.  The Spring 2024 project will be different, but will work similarly (teams of five students, six sprints, etc.)_
+
+
 ## Project Options and Requirements
 
 Your team must choose one of these project options.  You have a great deal of agency within these options, but you must stick to the core use cases of the project.

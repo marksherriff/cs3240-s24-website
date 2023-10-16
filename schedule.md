@@ -7,7 +7,7 @@ nav_order: 3
 # Course Schedule
 {: .no_toc }
 
-_NOTE: Schedules are subject to change.  Watch this page for updates!_
+_NOTE: This is the schedule for Fall 2023, but the Spring 2024 class will follow a similar schedule._
 
 1. TOC
 {:toc} 
