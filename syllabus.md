@@ -200,7 +200,7 @@ You are expected to work as a member of your group in this course and cooperate 
 ### Attendance
 {: .no_toc }
 * No attendance will be taken during the lectures sessions on Tuesdays and Thursdays.  
-* We do not currently plan to record lectures.  Recordings from previous semesters will be available for students who have to miss class.
+* We do not plan to record lectures this semester to better encourage attendance and participation.  Recordings from previous semesters will be available for students who have to miss class.
 * Students should only attend the lecture section they have registered for due to room size restrictions.  
 * Guided Practice activities will take place during announced class sessions.  Some of these will be in-class only, while some can be done outside of class time.  Also note that some Guided Practice activities _must_ be done in teams and cannot be done solo or even in pairs.  Pay attention to the instructions.
 
