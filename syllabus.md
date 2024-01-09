@@ -171,7 +171,8 @@ We will utilize a positive-reinforcement grading policy in this course. As the p
 ### Assessment Notes
 {: .no_toc }
 
-* Your one lowest GP is converted to 5 XP at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason.  Multiple missed GPs cannot be made up.  
+* Your one lowest GP is converted to 5 XP at the end of the semester.  This should primarily be used in case you are ill or must miss class for some other reason. 
+* Due to the nature of most in-class GPs, these cannot be made up if they are missed.
 * Each of the five team roles has a different document to submit that demonstrates an aspect of the position.
 * Your evaluation score is based upon several intermediate evals from teammates throughout the semester, a final evaluation from teammates, and the opinion of the staff.
 * There are 3 total quizzes, which will be taken in-person during lecture. Students can earn back up to 100 XP from missed quiz questions on the final exam.
@@ -199,7 +200,7 @@ You are expected to work as a member of your group in this course and cooperate 
 ### Attendance
 {: .no_toc }
 * No attendance will be taken during the lectures sessions on Tuesdays and Thursdays.  
-* We plan to record lectures most days and will make them available through Canvas.
+* We do not currently plan to record lectures.  Recordings from previous semesters will be available for students who have to miss class.
 * Students should only attend the lecture section they have registered for due to room size restrictions.  
 * Guided Practice activities will take place during announced class sessions.  Some of these will be in-class only, while some can be done outside of class time.  Also note that some Guided Practice activities _must_ be done in teams and cannot be done solo or even in pairs.  Pay attention to the instructions.
 
