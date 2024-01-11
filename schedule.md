@@ -65,12 +65,13 @@ nav_order: 3
 
 _^ NOTE: Per the syllabus, a student's lowest GP score is converted to a max score at the end of the semester, which functions as one free skip.  In-class Guided Practice activities cannot be made up due to the nature of the activities._
 
-## Project Schedule
+## Project Schedule Overview
+
+_See <a href="/project.html#sprint-information">the Sprint Information on the Project Information page</a> for a detailed schedule._
 
 <table class="schedtab"><thead>
 <tr>
     <th>Week Of</th>
-    <th>Deliverables Due This Sunday</th>
     <th>Sprint Info</th>
     </tr>
     </thead>
@@ -84,14 +85,7 @@ _^ NOTE: Per the syllabus, a student's lowest GP score is converted to a max sco
 <tr>
 {% endif %}
 <td class="text-center sched">{{day.date}}</td>
-<td class="sched">
-{{day.deliverable}}
-{% if day.deliverabledue %}
-<br><span class="sched-sub">
-Deliverable Due: Sunday {{day.deliverabledue}} at 12:00 PM
-</span>
-{% endif %}
-</td>
+
 <td class="sched">
 {% if day.link %}
 <a href="{{day.link}}">

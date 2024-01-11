@@ -1,98 +1,101 @@
 - topic: No Team Meetings (No teams yet)
   type: holiday
-  date: 08/27-09/02
+  date: 01/21-01/27
   deliverable: None
 
 - topic: "Sprint 1 Begins: Team Organization"
   type: lab
-  date: 09/03-09/09
+  date: 01/28-02/03
   deliverable: None
-  duedate: 09/10
+  duedate: 02/04
   link: "/project.html#sprint-1-team-organization"
 
 - topic: "Sprint 2 Begins: Requirements"
   type: lab
-  date: 09/10-09/16
+  date: 02/04-02/10
   deliverable: "S1 Ends: Team Declaration Form"
-  deliverabledue: 9/10
-  duedate: 09/24
+  deliverabledue: 02/11
+  duedate: 02/11
   link: "/project.html#sprint-2-requirements-elicitation"
-
-- topic: Team Meeting
-  type: lab
-  date: 09/17-09/23
-  deliverable: None
 
 - topic: "Sprint 3 Begins: Heroku + Google Login"
   type: lab
-  date: 09/24-09/30
-  duedate: 10/08
+  date: 02/11-02/17
+  duedate: 02/25
   deliverable: "S2 Ends: Requirements Doc + GitHub Issues"
-  deliverabledue: 09/24
+  deliverabledue: 02/25
   link: "/project.html#sprint-3-heroku--google-login"
 
-- topic: Fall Break (No Meetings w/ TAs)
-  type: holiday
-  date: 10/01-10/07
+- topic: "Sprint 3 Continues"
+  type: lab
+  date: 02/18-02/24
+  link: "/project.html#sprint-3-heroku--google-login"
   deliverable: None
 
-- topic: "Sprint 4 Begins: Project Milestone 1"
+- topic: "Sprint 4 Begins: Amazon S3 Storage"
   type: lab
-  date: 10/08-10/14
-  duedate: 10/22
+  date: 02/25-03/02
+  duedate: 03/17
   deliverable: "S3 Ends: App w/ Google Login on Heroku"
   deliverabledue: 10/08
-  link: "/project.html#sprint-4-project-milestone-1"
+  link: "/project.html#sprint-4-amazon-s3-storage"
 
-- topic: Team Meeting
-  type: lab
-  date: 10/15-10/21
+- topic: "Spring Break"
+  type: holiday
+  date: 03/03-03/09
   deliverable: None
 
-- topic: "Sprint 5 Begins: Project Milestone 2"
+- topic: "Sprint 4 Continues"
   type: lab
-  date: 10/22-10/28
-  duedate: 11/05
+  date: 03/10-03/16
+  link: "/project.html#sprint-4-amazon-s3-storage"
+  deliverable: None
+
+- topic: "Sprint 5 Begins: Requirements Change"
+  type: lab
+  date: 03/17-03/23
+  duedate: 03/31
   deliverable: "S4 Ends: Project Milestone 1 Features"
-  deliverabledue: 10/22
-  link: "/project.html#sprint-5-project-milestone-2"
+  deliverabledue: 03/31
+  link: "/project.html#sprint-5-requirements-change"
 
-- topic: Team Meeting
+- topic: "Sprint 5 Continues"
   type: lab
-  date: 10/29-11/04
+  date: 03/24-03/30
   deliverable: None
+  link: "/project.html#sprint-5-requirements-change"
 
 - topic: "Sprint 6 Begins: Beta Version"
   type: lab
-  date: 11/05-11/11
-  duedate: 11/12
+  date: 03/31-04/06
+  duedate: 04/14
   deliverable: "S5 Ends: Project Milestone 2 Features"
   deliverabledue: 11/05
   link: "/project.html#sprint-6-beta-version"
 
+- topic: "Sprint 6 Continues"
+  type: lab
+  date: 04/07-07/13
+  link: "/project.html#sprint-6-beta-version"
+  deliverable: None
+
 - topic: "Beta Testing Begins"
   type: lab
-  date: 11/12-11/18
-  duedate: 11/26
+  date: 04/14-04/20
+  duedate: 04/21
   deliverable: "S6 Ends: Complete Beta Version of App"
   deliverabledue: 11/12
   link: "/project.html#beta-testing"
 
-- topic: Team Meeting
-  type: lab
-  date: 11/19-11/25
-  deliverable: DevOps Report
-  deliverabledue: 11/19
-
 - topic: "Final Version Sprint Begins"
   type: lab
-  date: 11/26-12/02
+  date: 04/21-04/27
   deliverable: "Beta Testing Report + Usability Assessment"
-  deliverabledue: 11/26
+  deliverabledue: 04/28
   link: "/project.html#final-version"
   
 - topic: Project Due @ 11:59 PM
   type: lab
-  date: 12/03 
+  date: 04/28 
   deliverable: "Team Pledge + Scrum Master Report"
   deliverabledue: 12/03

@@ -39,6 +39,8 @@
   type: lecture
   date: 02/06
   coursepack: "https://docs.google.com/presentation/d/1EdJfVTeU6jIvB90deU-b1adM-HJs-fwhaObR7gJPy_U/edit?usp=sharing"
+  topic2: Requirements Engineering
+  coursepack2: https://www.cs3240.org/modules/requirements/requirements-engineering/
 
 - topic: Requirements Engineering
   type: lecture
