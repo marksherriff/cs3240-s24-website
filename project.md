@@ -15,7 +15,7 @@ nav_order: 4
 
 ## Project Overview
 
-This semester, we are doing something a bit different from previous semesters.  As a class, we are going to focus on one particular type of software system - a "whistleblower" app.  The technical requirements are going to be more firm up front, but your team will still have the ability to customize the theme of the app (e.g., whistleblower to a news organization, whistleblower to the honor committee about an honor violation, etc.) and some of the extended functionality.
+This semester, we are doing something a bit different from previous semesters.  As a class, we are going to focus on one particular type of software system - a "whistleblower" app.  The technical requirements are going to be firmer up front, but your team will still have the ability to customize the theme of the app (e.g., whistleblower to a news organization, whistleblower to the honor committee about an honor violation, etc.) and some of the extended functionality.
 
 You __must__ meet the base requirements listed below.
 
@@ -91,7 +91,7 @@ You __must__ meet the base requirements listed below.
 
 Each member of your five person team will take on one of these roles.  Each role has different responsibilities, but ALL ROLES require that you be an active contributor to the code of the project.  In other words, if you take on Scrum Master, that doesn't mean you don't have to contribute as much code as someone else.  Please see the [information on Assessment and Grading](/syllabus.html#assessment-and-grading) for more information.
 
-__Scrum Master__ - The Scrum Master could also be called the Team Leader, but it's not really a "leader" position, per se, in that they are not making major decisions about the project itself.  The Scrum Master is responsbile for keeping everyone on track, facilitating all team meetings, and monitoring team status / issues.  The course staff will come to the Scrum Master first if there are any team issues or questions, and similarly the Scrum Master needs to know what's going on with the team and can communicate with the staff if someone is falling behind, etc.
+__Scrum Master__ - The Scrum Master could also be called the Team Leader, but it's not really a "leader" position, per se, in that they are not making major decisions about the project itself.  The Scrum Master is responsible for keeping everyone on track, facilitating all team meetings, and monitoring team status / issues.  The course staff will come to the Scrum Master first if there are any team issues or questions, and similarly the Scrum Master needs to know what's going on with the team and can communicate with the staff if someone is falling behind, etc.
 
 - Reasons to be the Scrum Master: You like keeping schedules; you like keeping things organized; you don't mind being the point of contact with the staff.
 - Reasons not to be the Scrum Master: You are not the most organized person; you don't think you can stay on top of what the team is working on; you don't like talking to the staff.
@@ -100,7 +100,7 @@ _Major Artifact_: [Scrum Master Final Report]({{ site.data.externallinks.scrum_m
 
 __Requirements Manager__ - The Requirements Manager is responsible for keeping up with the features of the project.  This person will take the lead on the requirements elicitation process (which takes place in the first couple weeks of the project) as their major activity.  Note that the Requirements Manager doesn't do the whole process - they just lead the effort.  Everyone else has to participate as well!  Then throughout the semester they will manage the feature/issue tracker in GitHub, monitoring the state of the project.
 
-- Reasons to be the Requirements Manager: You are interested in learning how requirements are created; you want to find out what your fellow stduents are excited about with your project; you like updating a spreadsheet; you like knowing "what's coming next" in the project.
+- Reasons to be the Requirements Manager: You are interested in learning how requirements are created; you want to find out what your fellow students are excited about with your project; you like updating a spreadsheet; you like knowing "what's coming next" in the project.
 - Reasons to not be the Requirements Manager: You have no interest in interacting with other people to find out what they want in a system; your first couple weeks of the semester are super hectic and you don't have the time for the elicitation process.
 
 _Major Artifact_: [Requirements Elicitation Document]({{ site.data.externallinks.requirements_report_template }})  , due within the first few weeks of the semester    
@@ -112,7 +112,7 @@ __Testing Manager__ - The Testing Manager is responsible for ensuring that the s
 
 _Major Artifact_: [Beta Testing Report]({{ site.data.externallinks.beta_testing_report_template }}), due near the end of the semester    
 
-__DevOps Manager__ - The DevOps Manager is the support tech for the team in a sense.  They are responsbile for the management and support of all the systems we are using in the class, namely GitHub, GitHub Actions, and Heroku.  They should be a person that is relatively comfortable tinkering with computers and settings.  The DevOps Manager does not have to have all the answers, but would be the contact person for going to the staff to get help on any particular issues.
+__DevOps Manager__ - The DevOps Manager is the support tech for the team in a sense.  They are responsible for the management and support of all the systems we are using in the class, namely GitHub, GitHub Actions, and Heroku.  They should be a person that is relatively comfortable tinkering with computers and settings.  The DevOps Manager does not have to have all the answers, but would be the contact person for going to the staff to get help on any particular issues.
 
 - Reasons to be the DevOps Manager: You are familiar with the tools mentioned already, or you are really interested in learning more about them; you like to tinker with settings to get things working "just right"; you have the patience to help those on your team who might need assistance getting their environments working.
 - Reasons not to be the DevOps Manager: You do not feel comfortable helping others with technical issues; you are very unfamiliar with the tools above and would rather just have a "turnkey" solution for doing your work this semester.
@@ -121,7 +121,7 @@ _Major Artifact_: [DevOps Report]({{ site.data.externallinks.devops_report_templ
 
 __Software Architect__ - Midway through the project, a requirements change will be introduced to the base requirements listed above.  The job of the Software Architect is to determine how to implement the change, document the steps that need to be taken, and then help the team implement the change.  The Software Architect is _not_ the primary coder for the project and should not be treated as such.  
 
-- Reasons to be the Software Architect: You enjoy sovling a puzzle using critical thinking and you are interested in how software is put together.
+- Reasons to be the Software Architect: You enjoy solving a puzzle using critical thinking and you are interested in how software is put together.
 - Reasons not to be the Software Architect: You hate troubleshooting code.
 
 _Major Artifact_: [Requirments Change Analysis]({{ site.data.externallinks.sa_report_template }}), due after the requirements change is introduced  
@@ -173,7 +173,7 @@ Each sprint is graded out of 25 XP.  In general, the following grading standard 
 __Sprint Duration:__  {{site.data.semesterinfo.sprint_1.duration}}    
 __Sprint Due:__ {{site.data.semesterinfo.sprint_1.sprint_check}}
 
-__Goal:__ Have your initial meeting as a team and determine who will be doing what on the team.  This meeting can be any time between when your team is formed and your sprint check meeting with your TA on the first Sunday or Monday of the sprint.  The Scrum Master of each team MUST complete this form with the team as a part of the Sprint: [Team Declaration Form]({{ site.data.externallinks.team_declaration_form }}).  Also, Scrum Masters should initialize the team GitHub repo through [GitHub Classroom]({{ site.data.externallinks.github_classroom_project }}).  Please use your assigned team number for the identifier when prompted (e.g. A-03).  Other team members can then go to that link and accept the assignment, selecting the proper team.
+__Goal:__ Have your initial meeting as a team and determine who will be doing what on the team.  This meeting can be any time between when your team is formed and your sprint check meeting with your TA on the first Sunday or Monday of the sprint.  The Scrum Master of each team MUST complete this form with the team as a part of the Sprint: [Team Declaration Form]({{ site.data.externallinks.team_declaration_form }}).  Also, Scrum Masters should initialize the team GitHub repo through [GitHub Classroom]({{ site.data.externallinks.github_classroom_project }}).  Please use your assigned team number for the identifier when prompted (e.g., A-03).  Other team members can then go to that link and accept the assignment, selecting the proper team.
 
 __Requirements:__  Complete the Team Declaration form above ASAP.  Initialize your GitHub repo and have all team members join.
 
