@@ -19,6 +19,8 @@
   coursepack: https://www.cs3240.org/modules/process/software-construction/
   due: "GP-A: GitHub (Gradescope)"
   due_link: "https://docs.google.com/document/d/19YID72qLqowuC7oB8JzMK3UJa-ZcTteluGTrJUGR_Ow/edit?usp=sharing"
+  due2: Project Preference Form
+  due_link2: "https://docs.google.com/forms/d/e/1FAIpQLScRGR4UOMEBV3B_3HaD6cnKRrwUeLdIu2zjPNyMiZl9qUWvwA/viewform?usp=sf_link"
 
 - topic: Software Process
   type: lecture
@@ -26,7 +28,7 @@
   coursepack: https://www.cs3240.org/modules/process/software-process/
   topic2: Plan-Driven Methods
   coursepack2: https://www.cs3240.org/modules/process/plan-driven-methodologies/
-  due: Project Preference Form
+  
 
 - topic: Agile Methods
   type: lecture

@@ -58,6 +58,16 @@ nav_order: 3
 </a>
 {% endif %}
 {% endif %}
+{% if day.due2 %}
+<br>
+{% if day.due_link2%}
+<a href="{{day.due_link2}}">
+{% endif %}
+{{day.due2}}
+{% if day.due_link2%}
+</a>
+{% endif %}
+{% endif %}
 </td>
 </tr>
 {% endfor %}
