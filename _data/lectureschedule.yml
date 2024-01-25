@@ -13,7 +13,7 @@
   date: 01/23
   coursepack: 'https://www.cs3240.org/modules/process/what-is-se/'
 
-- topic: Software Construction & Project Info
+- topic: Software Construction
   type: lecture
   date: 01/25
   coursepack: https://www.cs3240.org/modules/process/software-construction/
@@ -21,6 +21,8 @@
   due_link: "https://docs.google.com/document/d/19YID72qLqowuC7oB8JzMK3UJa-ZcTteluGTrJUGR_Ow/edit?usp=sharing"
   due2: Project Preference Form
   due_link2: "https://docs.google.com/forms/d/e/1FAIpQLScRGR4UOMEBV3B_3HaD6cnKRrwUeLdIu2zjPNyMiZl9qUWvwA/viewform?usp=sf_link"
+  topic2: Project Info
+  coursepack2: "https://docs.google.com/presentation/d/1uL37Jiei3NQSLrF67IbUrIQmTF2L5I6mKPuSEb4uWrg/edit?usp=sharing"
 
 - topic: Software Process
   type: lecture
