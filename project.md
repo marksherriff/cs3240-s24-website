@@ -188,7 +188,7 @@ __Sprint Due:__ {{site.data.semesterinfo.sprint_2.sprint_check}}
 
 __Goal:__ Spend most of this sprint working as a team to elicit the full requirements for your system.  Note that while the final Requirements Document is the responsibility of the Requirements Manager, ALL TEAM MEMBERS are expected to contribute to gathering and refining the final set of requirements.  Once you have a good set of user stories / issues / tasks for your team to work on, add these as Issues to your GitHub Issues page on your team's repository.
 
-__Requirements:__ The team must have a reasonable set of user stories / issues in GitHub Issues.  The Requirements Manager will receive a separate score for the requirements document.
+__Requirements:__ The team must have a "reasonable" set of user stories / issues in GitHub Issues.  We do not expect you to have your final set of features at this point.  However, you need to be able to show the TA that you have started gathering requirements data and that you have converted at least some of this information into GitHub Issues.  The Requirements Manager will receive a separate score for the requirements document, which is due a week later.
 
 - [Example Requirements Document from Spring 2020](https://docs.google.com/document/d/1l39MWsVEX8LWcQ16Wo5-PXyaKhfm_O6j-1Uj6wj8RUU/edit?usp=sharing)
 - ["Excellent" Example from Fall 2020](https://docs.google.com/document/d/1aqeWWhA1QztrM_6iAI1PF3FjP8VTvOqCXhe5w9D9GaU/edit?usp=sharing)
