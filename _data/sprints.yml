@@ -5,7 +5,7 @@
   sprint_check: "09/10"
   sprint_check_requirements: "Complete the Team Declaration form above ASAP. Initialize your GitHub repo and have all team members join."
   eval_link: "No Team Evals this week."
-  submit: "Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope BEFORE meeting with your TA so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  (No, you won't have much to report this week, but think about what's coming up and discuss that.)"
+  submit: "Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it.  Scrum Masters *must* select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  (No, you won't have much to report this week, but think about what's coming up and discuss that.)"
 
 - name: "Sprint 2: Requirements Elicitation"
   goal: 
