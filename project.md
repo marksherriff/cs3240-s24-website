@@ -197,7 +197,7 @@ __Requirements:__ The team must have a "reasonable" set of user stories / issues
 
 __Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }})
 
-__How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it.  Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  Your GitHub Issues page should be populated with your team's project requirements.  The requirements manager should submit the requirements document to the appropriate assignment by the separate due date listed.  No other team members should submit the requirements document.
+__How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it.  Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  Your GitHub Issues page should be populated with your team's project requirements.  (NOTE: If you would like to use GitHub Projects instead of Issues, you may do so.)  The requirements manager should submit the requirements document to the appropriate assignment by the separate due date listed.  No other team members should submit the requirements document.
 
 ### Sprint 3: {{site.data.semesterinfo.sprint_3.goal}}
 
