@@ -4,7 +4,7 @@ title: Project Information
 nav_order: 4
 ---
 
-# Project Information - Under Construction
+# Project Information
 {: .no_toc }
 
 ## Table of Contents
