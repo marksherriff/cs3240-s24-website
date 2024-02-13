@@ -46,6 +46,8 @@ You __must__ meet the base requirements listed below.
 - All projects must be built using the prescribed language (Python 3), database system (PostgreSQL), framework (Django 5), build environment (GitHub Actions CI), source control management (GitHub), cloud hosting (Heroku), and cloud storage (Amazon S3). No exceptions to these will be granted.
 	- Note: All projects must use the PostgreSQL database engine for production on Heroku and continuous integration (on GitHub Actions). You are allowed to use SQLite for local testing so you do not have to install PostgreSQL on your own machine, but another option is to change your `settings.py` file point to the PostgreSQL DB on Heroku at all times.
 
+- All projects should have a footer on each page that indicates that this system is a class project, the system is not monitored, and no real information should be submitted.  If appropriate, direct the user to an appropriate external resource.
+
 ## Core Use Cases
 
 ### Anonymous User
