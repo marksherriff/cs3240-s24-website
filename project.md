@@ -210,7 +210,7 @@ __Goal:__ All projects must have a user account feature for students to login wi
 
 __Requirements:__ A user with a Google Account can login to the system and the system shows in some way that that user has indeed logged in.  You should not lock your app to just @virginia.edu accounts.  You must show that both a regular user account _and_ a site admin account can login and that they get different screens.  Note the requirements for the different types of users above.  Print the user's name and account name to the screen to show that it works.  If you want to start working on more requirements, you absolutely can do so.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
 
-__Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }})
+__Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it.  Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
 
@@ -223,7 +223,7 @@ __Goal:__ All projects must allow a user to upload files to Amazon S3.
 
 __Requirements:__ A major component of your system is to allow users to upload files to a permanent storage location (i.e. not directly to your Heroku installation).  Using Amazon S3, implement the necessary features to allow users (anonymous and logged in) to upload the three file types listed in the requirements above and show that the files can be viewed by a site admin through the website itself (not by just going directly to S3.)  GitHub Actions CI MUST be operational with at least multiple test cases in order to earn full XP.  As you are just getting started with testing, this is more showing us that you have the process setup and that you have some passing tests.  Your team must be updating GitHub Issues as appropriate throughout the rest of the project.
 
-__Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }})
+__Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it.  Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
 
@@ -236,7 +236,7 @@ __Goal:__ The Software Architect takes the lead in guiding the team through the 
 
 __Requirements:__ At the beginning of Sprint 5, the staff will introduce a requirements change to the project.  The Software Architect is responsible for leading the team through this change and documenting the needed architectural changes to handle the update.  More information on the specific requirements of this Sprint will be posted when the Sprint begins.
 
-__Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }})
+__Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it.  Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
 
@@ -249,7 +249,7 @@ __Goal:__ After Sprint 6 is complete, you are going to have other students test 
 
 __Requirments and Full Beta Version:__ In the opinion of the TA, you have an app that is ready for other students to test out (e.g. it doesn't crash, it looks reasonably good, it has most features, etc.).  You will earn 25 XP for the sprint check plus 100 XP as the first half of your overall project score of 250 XP (basically, if you have a working app at this point, we know your final project grade will be at least 100/250 XP, so we can give you those points now).
 
-__Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }})
+__Team Evals:__ At the end of Sprints 2-6 and at the end of the semester, you will need to fill out an evaluation for _each member_ of your team! You can find the evaluation form here: [Student Team Sprint Evaluations]({{ site.data.externallinks.sprint_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
 __How To Submit:__ Scrum Masters should fill out a [Sprint Report]({{ site.data.externallinks.sprint_report }}) and submit it to Gradescope by noon on Sunday at the completion of the sprint so they can reference it.  Scrum Masters -must- select their team members in Gradescope when submitting so all members will earn the XP for the sprint.  The main branch of your GitHub repo should be live on Heroku.
 
@@ -293,6 +293,6 @@ Aspects that will determine the exact grade within a range include but are not l
 - Obvious bugs that should have been corrected
 - Polish
 
-__Final Team Evals:__ All team members will complete a final, overall team evaluation at the end of the course.  [Final Student Team Sprint Evaluations]({{ site.data.externallinks.final_team_evaluations }})
+__Final Team Evals:__ All team members will complete a final, overall team evaluation at the end of the course.  [Final Student Team Sprint Evaluations]({{ site.data.externallinks.final_team_evaluations }}).  Students who do not fully participate in the team evaluation process will be penalized on their final Team and Staff Evaluation score.
 
 __The final version of the project must be in GitHub and hosted on Heroku no later than {{ site.data.semesterinfo.project_due_date }}!__
