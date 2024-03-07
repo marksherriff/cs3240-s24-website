@@ -85,8 +85,8 @@
   type: lecture
   date: 02/29
   coursepack: https://www.cs3240.org/modules/architecture/mvc/
-  topic2: Web Application Architectures
-  coursepack2: https://www.cs3240.org/modules/architecture/internet-arch/
+  topic2: REST
+  coursepack2: https://www.cs3240.org/modules/architecture/rest/
 
 - topic: Spring Break (No classes)
   type: holiday
@@ -96,27 +96,25 @@
   type: holiday
   date: 03/07
 
-- topic: REST
+- topic: Web Services
   type: lecture
   date: 03/12
-  coursepack: https://www.cs3240.org/modules/architecture/rest/
-  topic2: Web Services
-  coursepack2: https://www.cs3240.org/modules/architecture/web-services/
+  coursepack: https://www.cs3240.org/modules/architecture/web-services/
+  topic2: Modularity Review
+  coursepack2: https://www.cs3240.org/modules/design/modularity/
   due: "GP-D: Frameworks (Gradescope)"
   due_link_to_release: "https://docs.google.com/document/d/1VxILWRVKXPDMORuW-JQu882wXU3kP0ZP1LJkcbahXPs/edit?usp=sharing"
 
-- topic: Modularity Review
+- topic: Reading and Understanding Design Documents
   type: lecture
   date: 03/14
-  coursepack: https://www.cs3240.org/modules/design/modularity/
-  topic2: Communicating SW Architecture
-  coursepack2: "https://docs.google.com/presentation/d/1Et6AHPGNaQNFujW5da6-g3L2HOnePdvE_vU4lTQ4jw8/edit?usp=sharing"
+  coursepack: #
 
-- topic: Communicating Software Architecture Activity
+- topic: Understanding Design Documents
   type: lecture
   date: 03/19
   coursepack: #
-  due: "GP-E: Communication (In-Class^)"
+  due: "GP-E: Design Diagrams (In-Class^)"
   due_link: #
 
 - topic: Software Usability
