@@ -72,7 +72,9 @@ You __must__ meet the base requirements listed below.
 
 - A site admin user shall be created by having their account elevated to site admin status by a Django admin user logging in to the Django admin site and making the change to the account there.  Only a Django admin can grant site admin user privileges.
 - A site admin user shall be able to see a list of all submissions made, along with associated files.  Site admin users can view submissions and files within the website interface.
-- A site admin user can mark a submission as having been reviewed, which will be indicated to common users in their list of submissions.  Anonymous users receive no notifications, but the site admin user can still see that the submission has been reviewed.
+- __Deprecated Requirement:__ ~~A site admin user can mark a submission as having been reviewed, which will be indicated to common users in their list of submissions.  Anonymous users receive no notifications, but the site admin user can still see that the submission has been reviewed.~~
+- __Changed Requirement:__ An incoming submission to the system from a user is initially marked as "New."  When a site admin first views the submission, the submission's status should change from "New" to "In Progress."  If the submission came from a user with an account, they can see the changed status of their submission.  Anonymous users receive no notifications, but the site admin user can still see that the submission has been reviewed.
+- __New Requirement:__ When a site admin completes their action on the submission, they can set the status to "Resolved."  Also, the system shall allow the admin to submit text notes explaining what the resulting action of the submission was.  If the submission came from a user with an account, they can see the changed status of their submission and can read the explanation text from the site admin.  Anonymous users receive no notifications, but the site admin user can still see that the submission has been resolved.
 
 ### Django Admin User
 {: .no_toc }
