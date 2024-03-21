@@ -117,32 +117,32 @@
   due: "GP-E: Design Diagrams (In-Class^)"
   due_link: #
 
-- topic: Software Usability
+- topic: Verification and Validation 
   type: lecture
   date: 03/21
-  coursepack: "https://www.cs3240.org/modules/design/usability/"
+  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
 
-- topic: Personas and Wireframes
+- topic: Verification and Validation 
   type: lecture
   date: 03/26
-  coursepack: "https://www.cs3240.org/modules/design/usability/"
-  due: "GP-F: Wireframes (In-Class^)"
-  due_link_to_release: "https://docs.google.com/document/d/16C9VESwPJzvBwfvbs5lS82AQ8q-37kejrQyeWa6LF4U/edit?usp=sharing"
+  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
+  due: "GP-G: V&V Techniques (In-Class^)"
+  due_link: # 
 
 - topic: Quiz 2 - Software Architecture and Design
   type: quiz
   date: 03/28
 
-- topic: Verification and Validation
+- topic: Software Usability
   type: lecture
   date: 04/02
-  coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
+  coursepack: "https://www.cs3240.org/modules/design/usability/"
 
-- topic: V&V Techniques
+- topic: Personas and Wireframes
   type: lecture
   date: 04/04
   coursepack: #
-  due: "GP-G: V&V Techniques (In-Class^)"
+  due: "GP-F: Wireframes (In-Class^)"
   due_link: #
 
 - topic: SE Code of Ethics
