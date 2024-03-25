@@ -126,7 +126,7 @@
   type: lecture
   date: 03/26
   coursepack: "https://www.cs3240.org/modules/v&v/v-and-v/"
-  due: "GP-G: V&V Techniques (In-Class^)"
+  due: "GP-F: V&V Techniques (In-Class^)"
   due_link: # 
 
 - topic: Quiz 2 - Software Architecture and Design
@@ -142,7 +142,7 @@
   type: lecture
   date: 04/04
   coursepack: #
-  due: "GP-F: Wireframes (In-Class^)"
+  due: "GP-G: Wireframes (In-Class^)"
   due_link: #
 
 - topic: SE Code of Ethics
