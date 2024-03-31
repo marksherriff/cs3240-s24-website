@@ -133,40 +133,41 @@
   type: quiz
   date: 03/28
 
-- topic: Software Usability
+- topic: Software Maintenance
   type: lecture
   date: 04/02
-  coursepack: "https://www.cs3240.org/modules/design/usability/"
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
 
-- topic: Personas and Wireframes
+- topic: Software Maintenance
   type: lecture
   date: 04/04
-  coursepack: #
-  due: "GP-G: Wireframes (In-Class^)"
-  due_link: #
+  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
+  topic2: Security
+  coursepack2: "https://www.cs3240.org/modules/security%20&%20maintenance/security/"
+
+- topic: DEI in Software Engineering
+  type: lecture
+  date: 04/09
+  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
+  due: "GP-G: Security (Gradescope)"
 
 - topic: SE Code of Ethics
   type: lecture
-  date: 04/09
+  date: 04/11
   coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/se-code-of-ethics/"
   due: "GP-H: Ethics (In-Class^)"
   due_link: #
 
-- topic: DEI in Software Engineering
-  type: lecture
-  date: 04/11
-  coursepack: "https://www.cs3240.org/modules/ethics%20&%20professionalism/jedi/"
-
-- topic: Building Secure Software
+- topic: Software Usability
   type: lecture
   date: 04/16
-  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/security/"
+  coursepack: "https://www.cs3240.org/modules/design/usability/"
 
-- topic: Software Maintenance
+- topic: Personas and Wireframes
   type: lecture
   date: 04/18
-  coursepack: "https://www.cs3240.org/modules/security%20&%20maintenance/maintenance/"
-  due: "GP-I: Security (Gradescope)"
+  coursepack: 
+  due: "GP-I: Wireframes (In-Class^)"
   due_link_to_release: "https://docs.google.com/document/d/1qNtyPslygqzSLySMMjNxRAXY4HzrnJDOTUc2H-qN_cA/edit?usp=sharing"
 
 - topic: Software Licensing
@@ -176,7 +177,7 @@
   due: "GP-J: Licenses (Gradescope)"
   due_link_to_release: "https://docs.google.com/document/d/1Bik48VdvDfcCOLlIEtE7A0lV8lHR0GdgK8W9FPmYZi4/edit?usp=sharing"
 
-- topic: Quiz 3 - V&V and Professional Issues
+- topic: Quiz 3 - Usability and Professional Issues
   type: quiz
   date: 04/25
 
