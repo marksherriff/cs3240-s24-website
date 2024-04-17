@@ -55,7 +55,7 @@ You __must__ meet the base requirements listed below.
 
 - The system shall allow an anonymous user to make a submission with the following at a minimum:
 	- Text field to allow free form text submission
-	- The ability to upload multiple files at the same time (see allowed file types above)
+	- The ability to upload at least one file of the allowed file types above
 - Teams can add additional fields/functionality based upon their requirements elicitation.
 - NO INFORMATION about the anonymous user should be retained!
 
